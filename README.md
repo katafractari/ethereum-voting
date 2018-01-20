@@ -1,5 +1,9 @@
-My first Ethereum dApp.
+# My first Ethereum dApp.
 
 Thanks to https://medium.com/@mvmurthy/full-stack-hello-world-voting-ethereum-dapp-tutorial-part-1-40d2d0d807c2
 
-* **ganache/** Create a voting dApp on Ganache in-memory Ethereum blockchain
+#### Create a voting dApp on Ganache in-memory Ethereum blockchain
+
+- Run ganache-cli
+- run `npm start`
+
